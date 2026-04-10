@@ -5,3 +5,7 @@ obj/
 *.user
 *.suo
 *.cache
+
+DEFENSE_PREP.md
+SCENARIOS.md
+SUMMARY.md
